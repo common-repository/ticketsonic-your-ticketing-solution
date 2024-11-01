@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-0-0" gradientUnits="userSpaceOnUse" x1="75.46" y1="145.145" x2="75.46" y2="184.576" gradientTransform="matrix(0.860402, 0, 0, 0.869433, 11.863616, 24.099451)" xlink:href="#gradient-0"/>
+    <linearGradient id="gradient-0" bx:pinned="true">
+      <stop offset="0" style="stop-color: rgb(154, 24, 65);"/>
+      <stop offset="0.94" style="stop-color: rgb(214, 39, 87);"/>
+    </linearGradient>
+    <linearGradient id="gradient-0-1" gradientUnits="userSpaceOnUse" x1="75.83" y1="153.995" x2="75.83" y2="176.485" gradientTransform="matrix(0.860402, 0, 0, 0.869433, 11.863616, 24.099451)" xlink:href="#gradient-0"/>
+    <linearGradient id="gradient-2" bx:pinned="true">
+      <stop offset="0" style="stop-color: rgb(160, 83, 38);"/>
+      <stop offset="1" style="stop-color: rgb(238, 161, 54);"/>
+    </linearGradient>
+    <linearGradient id="gradient-4" bx:pinned="true">
+      <stop offset="0" style="stop-color: rgb(66, 93, 34);"/>
+      <stop offset="1" style="stop-color: rgb(140, 192, 74);"/>
+    </linearGradient>
+    <linearGradient id="gradient-4-0" gradientUnits="userSpaceOnUse" x1="50.092" y1="1" x2="50.092" y2="74.095" xlink:href="#gradient-4"/>
+    <linearGradient id="gradient-2-0" gradientUnits="userSpaceOnUse" x1="76.79" y1="150.293" x2="76.79" y2="184.576" xlink:href="#gradient-2"/>
+    <linearGradient id="gradient-2-1" gradientUnits="userSpaceOnUse" x1="77.108" y1="157.988" x2="77.108" y2="177.542" xlink:href="#gradient-2"/>
+    <linearGradient id="gradient-2-2" gradientUnits="userSpaceOnUse" x1="75.998" y1="186.763" x2="75.998" y2="186.763" xlink:href="#gradient-2"/>
+  </defs>
+  <path id="path983" d="M 4.801 72.785 C 35.39 90.446 64.818 90.446 96.979 72.753 C 67.827 95.351 32.618 95.351 4.801 72.785 Z" style="fill:#7f7f82;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0, 2.91499986000000000;stroke-opacity:1;fill-opacity:0.89019608;stroke-dashoffset:0"/>
+  <path style="opacity:1;fill:#7f7f82;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0, 2.91499986000000000;stroke-opacity:1;fill-opacity:0.89019608;stroke-dashoffset:0" d="M 9.595 81.594 C 36.862 97.312 63.346 97.312 92.791 81.501 C 67.827 101.236 32.618 101.236 9.595 81.594 Z" id="path983-3"/>
+  <g style="" id="g-1" transform="matrix(1.771819, -0.545041, 0.545041, 1.771819, -211.573151, -204.354095)">
+    <g transform="translate(5.0590594,-1.551661)" id="g-2">
+      <path id="path-1" style="opacity: 1; fill-opacity: 1; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stop-opacity: 1; fill: url(#gradient-0-0); stroke-width: 0.539445px; stroke: rgb(155, 24, 65);" d="M 72.238 150.297 C 72.24 152.6 69.963 155.59 68.596 155.59 C 68.991 155.537 68.992 179.693 68.597 179.746 C 69.96 179.752 72.24 182.282 72.24 184.56 C 72.194 184.472 81.27 184.428 81.347 184.576 C 81.345 182.275 83.619 179.744 84.984 179.746 L 84.98 155.582 C 83.622 155.59 81.345 152.6 81.346 150.293 C 81.387 150.508 72.279 150.512 72.238 150.297 Z"/>
+      <rect style="opacity: 1; stroke: rgb(255, 255, 255); stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1; stop-opacity: 1; fill: url(#gradient-0-1); stroke-width: 1.07889px;" id="rect-1" width="9.106" height="19.554" x="72.555" y="157.988"/>
+    </g>
+  </g>
+  <g transform="matrix(1.771795, 0.545117, -0.545117, 1.771795, 21.54405, -293.578735)" style="" id="g-3">
+    <g transform="translate(5.0590594,-1.551661)" id="g-4">
+      <path id="path-2" style="opacity: 1; fill-opacity: 1; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stop-opacity: 1; paint-order: fill; fill-rule: evenodd; stroke-width: 0.539445px; fill: url(#gradient-2-0); stroke: rgb(161, 85, 38);" d="M 72.238 150.297 C 72.24 152.6 69.963 155.59 68.596 155.59 L 68.597 179.746 C 69.96 179.752 72.24 182.282 72.24 184.56 C 72.127 184.346 81.234 184.362 81.347 184.576 C 81.345 182.275 83.619 179.744 84.984 179.746 C 84.787 179.726 84.83 155.567 84.98 155.582 C 83.622 155.59 81.345 152.6 81.346 150.293 C 81.329 150.567 72.221 150.571 72.238 150.297 Z"/>
+      <rect style="opacity: 1; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1; stop-opacity: 1; paint-order: fill; fill-rule: evenodd; stroke-width: 1.07889px; fill: url(#gradient-2-1); stroke: rgb(255, 255, 255);" id="rect-2" width="9.106" height="19.554" x="72.555" y="157.988"/>
+      <path style="fill: url(#gradient-2-2); stroke: rgb(161, 85, 38);" d="M 75.998 186.763"/>
+    </g>
+  </g>
+  <path d="M 40.289 1.009 C 40.295 5.918 35.39 12.295 32.442 12.295 C 33.424 12.295 34.471 63.8 33.617 63.8 C 36.551 63.811 40.295 69.205 40.293 74.062 C 40.293 73.268 59.917 73.052 59.917 74.095 C 59.913 69.189 63.563 63.792 66.503 63.798 C 65.523 63.67 66.891 12.165 67.743 12.276 C 64.818 12.293 59.913 5.918 59.913 1 C 59.913 1.542 40.289 1.549 40.289 1.007 L 40.289 1.009 Z" style="opacity: 1; fill-opacity: 1; stroke-linejoin: round; stroke-miterlimit: 4; stroke-dasharray: none; stop-opacity: 1; fill: url(#gradient-4-0); stroke: rgb(68, 95, 35);" id="rect26"/>
+  <rect y="17.198" x="40.295" height="41.691" width="19.618" id="rect24" style="opacity: 1; fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: miter; stroke-miterlimit: 4; stroke-dasharray: none; stroke-opacity: 1; stop-opacity: 1; stroke-width: 2px;"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M -7.02 47.17"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M -1.984 51.209"/>
+</svg>
